@@ -1,3 +1,5 @@
+from data import a, b, c, d, e, f
+
 # Convert each variable to the most suitable data type
 # Hint: print and check type if unsure
 # Not all can or should be converted to a number
