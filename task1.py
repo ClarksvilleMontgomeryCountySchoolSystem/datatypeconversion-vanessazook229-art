@@ -1,3 +1,5 @@
+from data import num
+
 #TODO 1 Run this program
 #Let'S debug.
 
@@ -12,5 +14,4 @@ num = int(num)
 
 result = num * 10
 print(result)
-
 
