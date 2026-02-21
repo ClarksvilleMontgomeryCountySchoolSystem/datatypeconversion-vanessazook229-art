@@ -1,3 +1,5 @@
+from data import price
+
 #TODO 1 Run this program
 #Let'S debug.
 #This time the problem is causing an error
@@ -15,4 +17,3 @@ price = float(price)
 #TODO 6 Uncomment 18 & 19.
 total = price + 5
 print(total)
-
